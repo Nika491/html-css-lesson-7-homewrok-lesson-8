@@ -11,3 +11,28 @@
         align-items:stretch;
     }
 }
+
+.card button {
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.card-content .color-button {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.card-content .add-to-cart-button {
+    background-color: #294836;
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+}
+
+ul {
+    list-style: none;
+}
