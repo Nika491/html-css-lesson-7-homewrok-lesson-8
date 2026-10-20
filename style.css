@@ -8,7 +8,6 @@
 
     img {
         width: 50%;
-        align-items:stretch;
     }
 }
 
@@ -17,6 +16,7 @@
     color: white;
     border-radius: 10px;
     width: 50%;
+    height: 30px;
 }
 
 .card-content .color-button {
@@ -24,13 +24,15 @@
     color: white;
     border-radius: 10px;
     width: 50%;
+    height: 30px;
 }
 
 .card-content .add-to-cart-button {
     background-color: #294836;
     color: white;
-    border-radius: 10px;
-    width: 50%;
+    border-radius: 5px;
+    width: 90%;
+    height: 40px;
 }
 
 ul {
